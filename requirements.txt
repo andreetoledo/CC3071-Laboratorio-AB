@@ -1,0 +1,17 @@
+astroid
+graphviz
+greenlet
+isort
+lazy-object-proxy
+mccabe
+mpmath
+msgpack
+parso
+pycodestyle
+pygraphviz
+pythomata
+sympy
+toml
+wrapt
+
+#instalar graphviz descargando el instalador desde la pagina oficial, y agregarlo al PATH de windows, lluego reiniciar.
